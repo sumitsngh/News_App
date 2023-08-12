@@ -5,18 +5,27 @@ The News App is a web-based application designed to provide users with up-to-dat
 http://127.0.0.1:5500/index.html
 
 #Tech Stack:
+
 Front-end: HTML, CSS, JavaScript
+
 API: NewsAPI
+
 Fonts: Google Fonts
 
 #Key Features:
 
 Dynamic Content: Utilized JavaScript to dynamically populate news articles using a template-based approach.
+
 Category Navigation: Implemented a user-friendly navigation bar allowing users to select and view news articles based on different categories.
+
 Search Functionality: Integrated a search bar that enables users to search for news articles by entering keywords or topics.
+
 External Links: Enabled users to access full news articles by clicking on individual cards, redirecting to the source website.
+
 Responsive Design: Designed the user interface with responsive CSS styles to ensure optimal display across various devices.
+
 API Integration:
+
 The NewsAPI played a pivotal role in the project by serving as the primary data source for news articles. Utilized NewsAPI endpoints to fetch articles based on category selections and search queries. The integration of the NewsAPI facilitated the app's ability to deliver timely and relevant news content to users.
 
 #Outcome:
